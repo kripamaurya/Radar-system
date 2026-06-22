@@ -114,8 +114,6 @@ Arduino-Radar-System/
 [![Arduino Radar System Demo](https://img.youtube.com/vi/5MCcgJNIzIQ/maxresdefault.jpg)]
 
 
-https://www.youtube.com/shorts/5MCcgJNIzIQ
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
