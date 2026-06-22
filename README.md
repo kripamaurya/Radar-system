@@ -111,7 +111,7 @@ Arduino-Radar-System/
 ---
 ## 🎥 Demo Video
 
-[![Arduino Radar System Demo](https://img.youtube.com/vi/5MCcgJNIzIQ/maxresdefault.jpg)](https://www.youtube.com/shorts/5MCcgJNIzIQ)
+[![Arduino Radar System Demo](https://img.youtube.com/vi/5MCcgJNIzIQ/maxresdefault.jpg)]
 
 
 https://www.youtube.com/shorts/5MCcgJNIzIQ
